@@ -1,0 +1,1 @@
+Mini Frontend and Backend API Integration Project. This project is designed to seamlessly integrate frontend and backend using Go, React and JS components, ensuring robust functionality and improved user experience.
